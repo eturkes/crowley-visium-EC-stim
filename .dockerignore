@@ -1,0 +1,10 @@
+assets
+.git
+notes
+results
+storage
+COPYING
+docker-compose.yml
+.gitignore
+README.md
+singularity.sh
